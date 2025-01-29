@@ -1,0 +1,415 @@
+<!-- Coded for PS3™ 4K Pro by Luan Teles -->
+
+<nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
+	<spc anno="csxad=1&adspace=2,3,4,5,6,7,8,9,10" id="1" multi="o" rep="t">
+	<!-- Main Ads -->
+		<mtrl id="1" mname="Welcome" from="2007-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2100-09-12T15:10:00.000Z" anno="emergency=0">
+			<name>Facts</name>
+			<owner>Sony</owner>
+			<desc>The square root of rope is string.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="1" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Dental floss has superb tensile strength.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="2" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The atomic weight of Germanium is seven two point six four.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="3" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>89% of magic tricks are not magic. Technically, they are sorcery.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="4" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>An ostrich's eye is bigger than its brain.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="5" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>In Greek myth, the craftsman Daedalus invented human flight so a group of Minotaurs would stop teasing him about it.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="6" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Humans can survive underwater. But not for very long.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="7" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Raseph, the Semitic god of war and plague, had a gazelle growing out of his forehead.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="8" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The plural of surgeon general is surgeons general. The past tense of surgeons general is surgeonsed general.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="9" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Polymerase I polypeptide A is a human gene.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="10" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Rats cannot throw up.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="11" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Iguanas can stay underwater for twenty-eight point seven minutes.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="12" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Human tapeworms can grow up to twenty-two point nine meters.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="13" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The Schrodinger's cat paradox outlines a situation in which a cat in a box must be considered, for all intents and purposes, simultaneously alive and dead. Schrodinger created this paradox as a justification for killing cats.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="14" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Every square inch of the human body has 32 million bacteria on it.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="15" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The Sun is 330,330 times larger than Earth.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="16" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The average life expectancy of a rhinoceros in captivity is 15 years.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="17" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Volcano-ologists are experts in the study of volcanoes.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="18" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Avocados have the highest fiber and calories of any fruit. They are found in Australians.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="19" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The moon orbits the Earth every 27.32 days.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="20" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The billionth digit of Pi is 9.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="21" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>If you have trouble with simple counting, use the following mnemonic device: one comes before two comes before 60 comes after 12 comes before six trillion comes after 504. This will make your earlier counting difficulties seem like no big deal.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="22" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>A gallon of water weighs 8.34 pounds</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="23" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Hot water freezes quicker than cold water.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="24" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Honey does not spoil.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="25" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The average adult body contains half a pound of salt.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="26" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>A nanosecond lasts one billionth of a second.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="27" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>According to Norse legend, thunder god Thor's chariot was pulled across the sky by two goats.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="28" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>China produces the world's second largest crop of soybeans.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="29" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Tungsten has the highest melting point of any metal, at 3,410 degrees Celsius.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="30" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Gently cleaning the tongue twice a day is the most effective way to fight bad breath.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="31" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Roman toothpaste was made with human urine. Urine as an ingredient in toothpaste continued to be used up until the 18th century.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="32" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The Tariff Act of 1789, established to protect domestic manufacture, was the second statute ever enacted by the United States government.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="33" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>In 1879, Sandford Fleming first proposed the adoption of worldwide standardized time zones at the Royal Canadian Institute.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="34" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Marie Curie invented the theory of radioactivity, the treatment of radioactivity, and dying of radioactivity.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="35" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>At the end of The Seagull by Anton Chekhov, Konstantin kills himself.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="36" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Contrary to popular belief, the Eskimo does not have one hundred different words for snow. They do, however, have two hundred and thirty-four words for fudge.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="37" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>In Victorian England, a commoner was not allowed to look directly at the Queen, due to a belief at the time that the poor had the ability to steal thoughts. Science now believes that less than 4% of poor people are able to do this.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="38" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>In 1862, Abraham Lincoln signed the Emancipation Proclamation, freeing the slaves. Like everything he did, Lincoln freed the slaves while sleepwalking, and later had no memory of the event.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="39" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>In 1948, at the request of a dying boy, baseball legend Babe Ruth ate seventy-five hot dogs, then died of hot dog poisoning.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="40" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>William Shakespeare did not exist. His plays were masterminded in 1589 by Francis Bacon, who used a Ouija board to enslave play-writing ghosts.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="41" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>It is incorrectly noted that Thomas Edison invented 'push-ups' in 1878. Nikolai Tesla had in fact patented the activity three years earlier, under the name 'Tesla-cize.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="42" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Whales are twice as intelligent, and three times as delicious, as humans.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="43" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The automobile brake was not invented until 1895. Before this, someone had to remain in the car at all times, driving in circles until passengers returned from their errands.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="44" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Edmund Hillary, the first person to climb Mount Everest, did so accidentally while chasing a bird.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="45" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Diamonds are made when coal is put under intense pressure. Diamonds put under intense pressure become foam pellets, commonly used today as packing material.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="46" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The most poisonous fish in the world is the orange ruffy. Everything but its eyes are made of a deadly poison. The ruffy's eyes are composed of a less harmful, deadly poison.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="47" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The occupation of court jester was invented accidentally, when a vassal's epilepsy was mistaken for capering.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="48" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Halley's Comet can be viewed orbiting Earth every seventy-six years. For the other seventy-five, it retreats to the heart of the sun, where it hibernates undisturbed.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="49" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The first commercial airline flight took to the air in 1914. Everyone involved screamed the entire way.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="50" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>In Greek myth, Prometheus stole fire from the Gods and gave it to humankind. The jewelry he kept for himself.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="51" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>The first person to prove that cow's milk is drinkable was very, very thirsty.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="52" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Before the invention of scrambled eggs in 1912, the typical breakfast was either whole eggs still in the shell or scrambled rocks.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="53" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>During the Great Depression, the Tennessee Valley Authority outlawed pet rabbits, forcing many to hot glue-gun long ears onto their pet mice.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="54" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>At some point in their lives 1 in 6 children will be abducted by the Dutch.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="55" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc> According to most advanced algorithms, the world's best name is Craig.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="56" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>To make a photocopier, simply photocopy a mirror.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+</mtrl>
+		<mtrl id="57" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z">
+			<desc>Dreams are the subconscious mind's way of reminding people to go to school naked and have their teeth fall out.</desc>
+			<url type="1">https://raw.githubusercontent.com/AX3449/ps3-whats-new-facts/refs/heads/main/ad-01.png</url>
+			<target type="u">http://www.google.com/</target>
+			<cntry agelmt="0">all</cntry>
+			<lang>all</lang>
+		</mtrl>
+	</spc>
+</nsx>
